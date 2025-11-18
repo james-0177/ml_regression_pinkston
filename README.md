@@ -1,13 +1,13 @@
-# Midterm Project: Classification Analysis
+# Final Project: Regression Analysis
 
 **Author:**  James Pinkston<br>
-**Date:**  November 11, 2025
+**Date:**  November 25, 2025
 
-[Project File](https://github.com/james-0177/ml_classification_pinkston/blob/main/notebooks/classification_pinkston.ipynb)
+[Project File]()
 
-[Documentation](https://james-0177.github.io/ml_classification_pinkston/)
+[Documentation]()
 
-[Peer Review](https://github.com/james-0177/ml_classification_pinkston/blob/main/peer_review.md)
+[Peer Review]()
 
 ## Overview
 

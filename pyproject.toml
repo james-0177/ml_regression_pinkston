@@ -14,7 +14,7 @@ classifiers = [
   "Programming Language :: Python :: 3 :: Only",
   "Programming Language :: Python :: 3.12",
 ]
-description = "Midterm Project: Classification Analysis"
+description = "Final Project: Regression Analysis"
 license = "MIT"
 name = "analytics-project" # PACKAGE name (matches src folder except with dashes)
 readme = "README.md"
@@ -34,10 +34,10 @@ dependencies = [ # fmt: off
 ]  # fmt: on
 
 [project.urls]
-"Bug Tracker" = "https://github.com/james-0177/ml_classification_pinkston/issues"
-Documentation = "https://james-0177.github.io/ml_classification_pinkston/"
-Homepage = "https://github.com/james-0177/ml_classification_pinkston"
-Repository = "https://github.com/james-0177/ml_classification_pinkston"
+"Bug Tracker" = "https://github.com/james-0177/ml_regression_pinkston/issues"
+Documentation = "https://james-0177.github.io/ml_regression_pinkston/"
+Homepage = "https://github.com/james-0177/ml_regression_pinkston"
+Repository = "https://github.com/james-0177/ml_regression_pinkston"
 
 [project.optional-dependencies]
 dev = [
