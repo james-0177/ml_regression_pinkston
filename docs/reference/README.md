@@ -64,9 +64,9 @@ notebooks/regression_pinkston.ipynb
 - Violin plots for numeric feature distributions (age, bmi)  
 - Count plots for categorical variables (sex, smoker, region)  
 - Histograms to identify patterns, outliers, and anomalies  
-- Categorical variables encoded numerically  
-  - sex:  male = 0, female = 1  
-  - smoker:  no = 0, yes = 1  
+- Categorical variables encoded numerically
+  - sex:  male = 0, female = 1
+  - smoker:  no = 0, yes = 1
   - region:  northwest = 0, northeast = 1, southwest = 2, southeast = 3
 
 ### Feature Selection and Justification
