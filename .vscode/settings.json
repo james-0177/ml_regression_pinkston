@@ -7,11 +7,16 @@
 
 {
   // Keep files clean and consistent
-  "files.trimTrailingWhitespace": true,
+  "files.trimTrailingWhitespace": false,
   "files.insertFinalNewline": true,
   "files.eol": "\n",
 
   // Use Ruff as the single formatter (if installed)
   "editor.defaultFormatter": "charliermarsh.ruff",
   "editor.formatOnSave": true
+
+  // Disable format-on-save for Markdown so trailing spaces stay
+  "[markdown]": {
+      "editor.formatOnSave": false
+  }
 }

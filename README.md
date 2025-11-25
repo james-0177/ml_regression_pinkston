@@ -54,24 +54,24 @@ notebooks/regression_pinkston.ipynb
 
 ### Dataset
 
-- Source: data/insurance.csv
-- Key Features: age, sex, bmi, children, smoker, region, charges
-- Target Variable: charges
+- Source: data/insurance.csv  
+- Key Features: age, sex, bmi, children, smoker, region, charges  
+- Target Variable: charges  
 
 ### Data Exploration
 
-- Scatter matrix for numeric features (age, bmi, children, charges)
-- Violin plots for numeric feature distributions (age, bmi)
-- Count plots for categorical variables (sex, smoker, region)
-- Histograms to identify patterns, outliers, and anomalies
-- Categorical variables encoded numerically
-  - sex:  male = 0, female = 1
-  - smoker:  no = 0, yes = 1
+- Scatter matrix for numeric features (age, bmi, children, charges)  
+- Violin plots for numeric feature distributions (age, bmi)  
+- Count plots for categorical variables (sex, smoker, region)  
+- Histograms to identify patterns, outliers, and anomalies  
+- Categorical variables encoded numerically  
+  - sex:  male = 0, female = 1  
+  - smoker:  no = 0, yes = 1  
   - region:  northwest = 0, northeast = 1, southwest = 2, southeast = 3
 
 ### Feature Selection and Justification
 
-X = [age, bmi, smoker]
+X = [age, bmi, smoker]  
 y = charges
 
 These features (age, bmi, and smoker) have clear, well-documented relationships with medical costs and represent meaningful predictors of insurance charges.
@@ -84,17 +84,17 @@ These features (age, bmi, and smoker) have clear, well-documented relationships 
 
 ### Evaluation
 
-Linear R^2: 0.778
-Linear RMSE: 5874.76
-Linear MAE: 4260.56
+Linear R^2: 0.778  
+Linear RMSE: 5874.76  
+Linear MAE: 4260.56  
 
-Pipeline 1 R^2: 0.778
-Pipeline 1 RMSE: 5874.76
-Pipeline 1 MAE: 4260.56
+Pipeline 1 R^2: 0.778  
+Pipeline 1 RMSE: 5874.76  
+Pipeline 1 MAE: 4260.56  
 
-Pipeline 2 R^2: 0.861
-Pipeline 2 RMSE: 4637.02
-Pipeline 2 MAE: 2838.44
+Pipeline 2 R^2: 0.861  
+Pipeline 2 RMSE: 4637.02  
+Pipeline 2 MAE: 2838.44  
 
 ## Reflections
 
