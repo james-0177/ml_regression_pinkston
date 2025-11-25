@@ -7,7 +7,7 @@
 # TODO: Update site_author
 
 site_name: "Final Project: Regression Analysis"
-site_url: https://james-0177.github.io/ml_classification_pinkston/
+site_url: https://james-0177.github.io/ml_regression_pinkston/
 repo_url: https://github.com/james-0177/ml_regression_pinkston
 site_description: Professional Python project demonstrating the application of regression modeling techniques to a real-world dataset.
 site_author: James Pinkston
@@ -64,5 +64,5 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Overview: reference/README.md
-  - Summary Analysis: reference/summary.md
+  - Overview: overview/README.md
+  - Summary Analysis: overview/summary.md

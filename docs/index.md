@@ -4,6 +4,6 @@ Author:  **James Pinkston**
 
 This repository contains my Regression Analysis Final Project for Applied Machine Learning. The project file is named regression_pinkston.ipynb.
 
-Link to Project File:  [**Regression Analysis**](https://github.com/james-0177/ml_classification_pinkston/blob/main/notebooks/classification_pinkston.ipynb)
+Link to Project File:  [**Regression Analysis**](https://github.com/james-0177/ml_regression_pinkston/blob/main/notebooks/regression_pinkston.ipynb)
 
-Link to Project README:  [**Documentation**](reference/README.md)
+Link to Project README:  [**Documentation**](overview/README.md)
