@@ -6,4 +6,4 @@ This repository contains my Regression Analysis Final Project for Applied Machin
 
 Link to Project File:  [**Regression Analysis**](https://github.com/james-0177/ml_regression_pinkston/blob/main/notebooks/regression_pinkston.ipynb)
 
-Link to Project README:  [**Documentation**](overview/README.md)
+Link to Project README:  [**Documentation**](reference/README.md)

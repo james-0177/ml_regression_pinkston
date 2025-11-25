@@ -64,5 +64,5 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Overview: overview/README.md
-  - Summary Analysis: overview/summary.md
+  - Overview: reference/README.md
+  - Summary Analysis: reference/summary.md
