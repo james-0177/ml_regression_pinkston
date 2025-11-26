@@ -5,13 +5,13 @@
 
 [Project File](https://github.com/james-0177/ml_regression_pinkston/blob/main/notebooks/regression_pinkston.ipynb)
 
-[Documentation]()
+[Documentation](https://james-0177.github.io/ml_regression_pinkston/reference/)
 
-[Peer Review]()
+[Peer Review](https://github.com/james-0177/ml_regression_pinkston/blob/main/peer_review.md)
 
 ## Overview
 
-This project uses a Titanic dataset to build classification models predicting survival. Two models were trained: Decision Tree and Random Forest. Key preprocessing steps, feature engineering, and evaluation metrics are included.
+This project uses real-world dataset to build linear regression models predicting insurance charges. Key preprocessing steps, feature select, model training, and evaluation metrics are included.
 
 ## Usage
 
@@ -65,9 +65,9 @@ notebooks/regression_pinkston.ipynb
 - Count plots for categorical variables (sex, smoker, region)  
 - Histograms to identify patterns, outliers, and anomalies  
 - Categorical variables encoded numerically
-  - sex: male = 0, female = 1
-  - smoker: no = 0, yes = 1
-  - region: northwest = 0, northeast = 1, southwest = 2, southeast = 3
+  - sex:  male = 0, female = 1
+  - smoker:  no = 0, yes = 1
+  - region:  northwest = 0, northeast = 1, southwest = 2, southeast = 3
 
 ### Feature Selection and Justification
 

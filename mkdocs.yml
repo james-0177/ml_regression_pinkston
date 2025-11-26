@@ -65,4 +65,4 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Overview: reference/README.md
-  - Summary Analysis: reference/summary.md
+  - Summary of Performance Metrics: reference/summary.md

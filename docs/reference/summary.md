@@ -1,4 +1,6 @@
-| Model Type      | Features Used                   | Accuracy | Precision | Recall | F1-Score | Notes                               |
-|-----------------|---------------------------------|----------|-----------|--------|-----------|------------------------------------|
-| Decision Tree   | Age, Fare, Pclass, Sex, FamilySize, Alone | 57%      | 54%      | 54%   | 54%      | Overfits training set; performs better on non-survivors |
-| Random Forest   | Age, Fare, Pclass, Sex, FamilySize, Alone | 60%      | 58%      | 58%   | 58%      | Slight improvement over Decision Tree; still struggles with survivors |
+
+| Model Type                 | Features Used    | Train R^2 | Test R^2 | Test RMSE | Test MAE |
+| -------------------------- | ---------------- | -------- | ------- | --------- | -------- |
+| Linear Regression          | age, bmi, smoker | 0.739    | 0.778   | 5874.76   | 4260.56  |
+| Pipeline 1 (StandardScaler)     | age, bmi, smoker | 0.739    | 0.778   | 5874.76   | 4260.56  |
+| Pipeline 2 (Polynomial Features, degree=3) | age, bmi, smoker | 0.836    | 0.861   | 4637.02   | 2838.44  |
